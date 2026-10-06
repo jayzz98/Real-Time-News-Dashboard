@@ -7,7 +7,10 @@ The project brings **World News, India News, Sports, Stock Market indicators, We
 Instead of relying on a manually maintained dataset, the dashboard connects to external APIs, retrieves JSON data, transforms and cleans it in Power Query, maintains dedicated current/historical storage queries, and presents the processed information through interactive Power BI pages.
 
 ---
-<img width="931" height="664" alt="Screenshot 2026-10-06 165959" src="https://github.com/user-attachments/assets/c152fe36-7eaf-41bb-b855-a541fbaae389" />
+<img width="928" height="666" alt="Screenshot 2026-10-06 165916" src="https://github.com/user-attachments/assets/ff79c684-bde0-4899-b9dc-51334ce3cb7e" />
+<img width="929" height="666" alt="Screenshot 2026-10-06 165940" src="https://github.com/user-attachments/assets/2474275e-a608-49dc-bbfe-c1c5691c29fc" />
+<img width="931" height="664" alt="Screenshot 2026-10-06 165959" src="https://github.com/user-attachments/assets/a47a664e-cc55-49f7-a53c-0f014578f577" />
+
 
 ## 📌 Project Overview
 
