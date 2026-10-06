@@ -450,27 +450,30 @@ The sports page demonstrates how Power BI can combine **editorial/news informati
 
 # 🖼️ Dashboard Screenshots
 
-## 🌍 World News Dashboard
+## World News Dashboard
 
 The World News dashboard provides a global news overview with headline cards, a weekly digest, market information, weather, social updates, quotes, and curated channels.
 
-![World News Dashboard](Screenshots/world-news-dashboard.png)
+<img width="928" height="666" alt="Screenshot 2026-10-06 165916" src="https://github.com/user-attachments/assets/7009bcae-85c6-4bd5-a298-893e1b701f00" />
+
 
 ---
 
-## 🇮🇳 India News Dashboard
+## India News Dashboard
 
 The India News dashboard focuses on India-specific headlines and recent news while also displaying market indicators, weather, social updates, quotes, and Indian media channels.
 
-![India News Dashboard](Screenshots/india-news-dashboard.png)
+<img width="929" height="666" alt="Screenshot 2026-10-06 165940" src="https://github.com/user-attachments/assets/907bae68-d69c-4531-8bac-fbb51e516cfa" />
+
 
 ---
 
-## 🏟️ Sports News Dashboard
+##  Sports News Dashboard
 
 The Sports News dashboard combines current sports news with cricket and football live-score sections, match status information, a weekly digest, and sports media channels.
 
-![Sports News Dashboard](Screenshots/sports-news-dashboard.png)
+<img width="931" height="664" alt="Screenshot 2026-10-06 165959" src="https://github.com/user-attachments/assets/a698b4b5-3cc6-4f61-823e-69a7096ce72c" />
+
 
 ---
 
