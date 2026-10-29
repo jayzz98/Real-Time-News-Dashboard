@@ -1,6 +1,6 @@
-# 📰 Real-Time News Analytics Dashboard
+# 📰 Real-Time News Dashboard
 
-An **API-driven news and information analytics dashboard** built with **Microsoft Power BI**, **Power Query (M)**, **DAX**, and multiple REST APIs.
+An **API-driven news and information dashboard** built with **Microsoft Power BI**, **Power Query (M)**, **DAX**, and multiple REST APIs.
 
 The project brings **World News, India News, Sports, Stock Market indicators, Weather, Social/Tweet updates, Quotes, and multilingual news content** into a single interactive Power BI experience.
 
@@ -479,7 +479,7 @@ The Sports News dashboard combines current sports news with cricket and football
 
 # ⚡ Real-Time / Current Data Concept
 
-The project is described as **Real-Time News Analytics** because its primary data sources are external APIs that provide current or frequently updated information instead of a manually maintained static dataset.
+The project is described as **Real-Time News Dashboard** because its primary data sources are external APIs that provide current or frequently updated information instead of a manually maintained static dataset.
 
 The general refresh process is:
 
